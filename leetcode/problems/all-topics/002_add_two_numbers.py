@@ -1,4 +1,5 @@
 from all_import import *
+
 '''
 You are given two non-empty linked lists representing two non-negative integers. 
 The digits are stored in reverse order, and each of their nodes contains a single digit. 
@@ -46,7 +47,7 @@ class Solution:
             
             curr.next = ListNode(val % 10)
             curr = curr.next
-            carry = int(val / 10)
+            carry = val // 10
         if carry > 0:
             curr.next = ListNode(carry)
         return head.next
