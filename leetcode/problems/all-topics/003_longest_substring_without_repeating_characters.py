@@ -26,14 +26,13 @@ s consists of English letters, digits, symbols and spaces.
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        store = {}
-        for i in range(256): store[i] = -1
+        store = {i: -1 for i in range(256)}
             
         len_s = len(s)
         i = max_len = 0
         for j in range(len_s): 
             if store[ord(s[j])] >= i: 
-                i = store[ord(s[j])] + 1 # 
+                i = store[ord(s[j])] + 1 
             store[ord(s[j])] = j
             max_len = max(max_len, j - i + 1)
         return max_len
