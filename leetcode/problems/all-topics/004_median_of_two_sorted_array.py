@@ -58,7 +58,3 @@ class Solution:
         return merge_list[len_merge_list_div2] \
                if len_merge_list % 2 == 1 \
                else (merge_list[len_merge_list_div2-1] + merge_list[len_merge_list_div2]) / 2
-
-if __name__ == "__main__":
-    s = Solution()
-    print(s.findMedianSortedArrays([1,2],[3,4]))
