@@ -18,6 +18,7 @@ Constraints:
 - 1 <= s.length <= 1000
 - s consist of only digits and English letters.
 '''
+
 def expandAroundCenter(s, left, right):
     while left >= 0 and right < len(s) and s[left] == s[right]:
         left -= 1 
