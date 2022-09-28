@@ -25,4 +25,17 @@ Constraints:
 
 class Solution:
     def reverse(self, x: int) -> int:
-        pass
+        INT_MAX = 2147483647
+        INT_MIN = -2147483648
+
+        res, isPos = 0, 1
+        if x < 0:
+            isPos = -1
+            x = -1 * x
+        while x != 0:
+            pop = x % 10
+            x //= 10
+            if res > INT_MAX // 10 or (res == INT_MAX and pop > 7): return 0
+            if res < INT_MIN // 10 or (res == INT_MIN and pop < -8): return 0
+            res = res * 10 + pop
+        return res * isPos
