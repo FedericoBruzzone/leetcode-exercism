@@ -15,3 +15,5 @@
 (Medium) **6 Zigzag Conversion** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/006_zigzag_conversion.py)
 
 (Medium) **7 Reverse Integer** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/007_reverse_integer.py)
+
+(Medium) **8 String to Integer (atoi)** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/008_string_to_integer.py)
