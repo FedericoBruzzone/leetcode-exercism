@@ -17,3 +17,7 @@
 (Medium) **7 Reverse Integer** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/007_reverse_integer.py)
 
 (Medium) **8 String to Integer (atoi)** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/008_string_to_integer.py)
+
+(Easy) **9 String to Integer (atoi)** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/009_palindrome_number.py)
+
+(Hard) **10 Regular Expression Matching** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/010_regular_expression_matching.py)
