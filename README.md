@@ -26,4 +26,8 @@
 
 (Medium) **12 Integer to Roman** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0012_integer_to_roman.py)
 
+(Easy) **13 Roman To Integer** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0013_roman_to_integer.py)
+
+### TODO:
+
 (Medium) **1615 Maximal Network Rank**[Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
