@@ -44,4 +44,22 @@ Constraints:
 
 class Solution:
     def intToRoman(self, num: int) -> str:
-        pass
+        values = [1000, 900, 500, 400, 
+                 100, 90, 50, 40, 
+                 10, 9, 5, 4, 1]
+        
+        symbols = ["M", "CM", "D", "CD",
+                  "C", "XC", "L", "XL", 
+                  "X", "IX", "V", "IV", "I"]
+        
+        roman = ""
+        i = 0
+        
+        while num > 0:
+            values_i = values[i]
+            k = num // values_i
+            for j in range(k):
+                roman += symbols[i]
+                num -= values_i 
+            i += 1
+        return roman
