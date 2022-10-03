@@ -34,6 +34,7 @@
 
 (Medium) **16 3sum Closest** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum_closest.py)
 
+(Medium) **17. Letter Combinations of a Phone Number ** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0017_letter_combinations_of_a_phone_number.py)
 
 ### TODO:
 

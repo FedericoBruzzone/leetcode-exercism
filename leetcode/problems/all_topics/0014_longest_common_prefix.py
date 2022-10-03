@@ -57,6 +57,7 @@ class Solution:
         return longestCommonPrefix(strs, 0, len(strs) - 1)
 
 # Binary Search solution
+
 def isCommonPrefix(strs: List[str], length: int) -> bool:
     str1 = strs[0][0:length]
     for i in range(1, len(strs)):
