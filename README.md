@@ -2,7 +2,7 @@
 
 ## Problems/all-topics
 
-(Small) **1 Two Sum** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
+(Easy) **1 Two Sum** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
 
 (Medium) **2 Add Two Numbers** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0002_add_two_numbers.py)
 
@@ -31,6 +31,9 @@
 (Easy) **14 Longest Common Prefix** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0014_longest_common_prefix.py)
 
 (Medium) **15 3sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum.py)
+
+(Medium) **16 3sum Closest** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum_closest.py)
+
 
 ### TODO:
 
