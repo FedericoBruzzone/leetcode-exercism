@@ -30,6 +30,8 @@
 
 (Easy) **14 Longest Common Prefix** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0014_longest_common_prefix.py)
 
+(Medium) **15 3sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum.py)
+
 ### TODO:
 
 (Medium) **1615 Maximal Network Rank**[Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
