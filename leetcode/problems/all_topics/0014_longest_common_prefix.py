@@ -55,6 +55,32 @@ class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if len(strs) == 0 or strs == None: return ""
         return longestCommonPrefix(strs, 0, len(strs) - 1)
+
+# Binary Search solution
+def isCommonPrefix(strs: List[str], length: int) -> bool:
+    str1 = strs[0][0:length]
+    for i in range(1, len(strs)):
+        if not strs[i].startswith(str1):
+            return False
+    return True
+    
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        if len(strs) == 0 or strs == None: return ""
         
+        min_len = 2147483647
         
+        for i in range(len(strs)):
+            min_len = min(min_len, len(strs[i]))
         
+        low = 1
+        high = min_len
+        
+        while low <= high:
+            mid = low + high // 2
+            if isCommonPrefix(strs, mid):
+                low = mid + 1
+            else:
+                high = mid - 1
+        
+        return strs[0][0:(low + high) // 2]
