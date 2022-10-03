@@ -1,3 +1,4 @@
+from all_import import *
 
 '''
 Write a function to find the longest common prefix string amongst an array of strings.
@@ -19,6 +20,8 @@ Constraints:
 - strs[i] consists of only lowercase English letters.
 '''
 
+
+# Vertical solution
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if len(strs) == 0 or strs == None: return ""
@@ -29,3 +32,29 @@ class Solution:
                 if i == len(strs[j]) or strs[j][i] != prefix:
                     return strs[0][0:i]
         return strs[0]
+
+# Divide and Conquer solution
+def commonPrefix(left: str, right: str):
+    len_min= min(len(left), len(right))
+    
+    for i in range(len_min):
+        if left[i] != right[i]:
+            return left[0:i]
+    return left[0:len_min]
+
+def longestCommonPrefix(strs: List[str], l: int, r: int) -> str:
+        if l == r:  
+            return strs[l]
+        else:
+            mid = l+r//2
+            right = longestCommonPrefix(strs, l, mid)
+            left = longestCommonPrefix(strs, mid + 1, r)
+            return commonPrefix(left, right)
+
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        if len(strs) == 0 or strs == None: return ""
+        return longestCommonPrefix(strs, 0, len(strs) - 1)
+        
+        
+        
