@@ -2,7 +2,7 @@
 
 ## Problems/all-topics
 
-(Easy) **1 Two Sum** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
+(Small) **1 Two Sum** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
 
 (Medium) **2 Add Two Numbers** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0002_add_two_numbers.py)
 
@@ -32,8 +32,11 @@
 
 (Medium) **15 3sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum.py)
 
-(Medium) **16 3sum Closest** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum_closest.py)
+(Medium) **16 3sum closetst** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0016_3sum_closest.py)
 
+(Medium) **17 Letter Combinations Of Phone Number** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0017_letter_combinations_of_phone_number.py)
+
+(Medium) **18 4Sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0018_4sum.py)
 
 ### TODO:
 
