@@ -38,6 +38,7 @@
 
 (Medium) **18 4Sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0018_4sum.py)
 
+(Medium) **19 Remove Nth Node From End of List** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0019_remove_nth_node_from_end_of_list.py)
 
 
 ### TODO:
