@@ -44,6 +44,10 @@
 
 (Easy) **21 Merge Two Sorted Lists** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0021_merge_two_sorted_lists.py)
 
+(Medium) **22 Generate Parentheses** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0022_generate_parentheses.py)
+
+(Hard) **23 Merge k Sorted Lists** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0023_merge_k_sorted_lists.py)
+
 ### TODO:
 
 (Medium) **1615 Maximal Network Rank**[Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
