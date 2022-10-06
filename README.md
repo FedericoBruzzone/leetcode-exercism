@@ -40,6 +40,9 @@
 
 (Medium) **19 Remove Nth Node From End of List** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0019_remove_nth_node_from_end_of_list.py)
 
+(Easy) **20 Valid Parentheses** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0020_valid_parentheses.py)
+
+(Easy) **21 Merge Two Sorted Lists** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0021_merge_two_sorted_lists.py)
 
 ### TODO:
 
