@@ -2,7 +2,7 @@
 
 ## Problems/all-topics
 
-(Easy) **1 Two Sum** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
+(Small) **1 Two Sum** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
 
 (Medium) **2 Add Two Numbers** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0002_add_two_numbers.py)
 
@@ -32,9 +32,25 @@
 
 (Medium) **15 3sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum.py)
 
-(Medium) **16 3sum Closest** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0015_3sum_closest.py)
+(Medium) **16 3sum closetst** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0016_3sum_closest.py)
 
+<<<<<<< HEAD
 (Medium) **17. Letter Combinations of a Phone Number ** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0017_letter_combinations_of_a_phone_number.py)
+=======
+(Medium) **17 Letter Combinations Of Phone Number** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0017_letter_combinations_of_phone_number.py)
+
+(Medium) **18 4Sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0018_4sum.py)
+
+(Medium) **19 Remove Nth Node From End of List** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0019_remove_nth_node_from_end_of_list.py)
+
+(Easy) **20 Valid Parentheses** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0020_valid_parentheses.py)
+
+(Easy) **21 Merge Two Sorted Lists** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0021_merge_two_sorted_lists.py)
+
+(Medium) **22 Generate Parentheses** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0022_generate_parentheses.py)
+
+(Hard) **23 Merge k Sorted Lists** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0023_merge_k_sorted_lists.py)
+>>>>>>> 9c651e804a89e0f1ba67659fac5f01193401cd85
 
 ### TODO:
 

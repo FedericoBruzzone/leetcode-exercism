@@ -1,3 +1,0 @@
-# leetcode
-
-## Problems/stack
