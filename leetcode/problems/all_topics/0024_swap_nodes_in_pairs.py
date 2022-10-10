@@ -23,11 +23,21 @@ The number of nodes in the list is in the range [0, 100].
 '''
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
-
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+        
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        pass
+        dummyHead = ListNode(-1)
+        dummyHead.next = head
+        prev, p = dummyHead, head 
+        while p != None and p.next != None:
+            q, r = p.next, p.next.next 
+            prev.next = q 
+            q.next = p 
+            p.next = r 
+            prev = p 
+            p = r 
+        return dummyHead.next
