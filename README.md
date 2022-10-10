@@ -34,9 +34,6 @@
 
 (Medium) **16 3sum closetst** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0016_3sum_closest.py)
 
-<<<<<<< HEAD
-(Medium) **17. Letter Combinations of a Phone Number ** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0017_letter_combinations_of_a_phone_number.py)
-=======
 (Medium) **17 Letter Combinations Of Phone Number** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0017_letter_combinations_of_phone_number.py)
 
 (Medium) **18 4Sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0018_4sum.py)
@@ -50,8 +47,8 @@
 (Medium) **22 Generate Parentheses** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0022_generate_parentheses.py)
 
 (Hard) **23 Merge k Sorted Lists** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0023_merge_k_sorted_lists.py)
->>>>>>> 9c651e804a89e0f1ba67659fac5f01193401cd85
 
+(Medium) **24. Swap Nodes in Pairs** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0024_swap_nodes_in_pairs.py) 
 ### TODO:
 
 (Medium) **1615 Maximal Network Rank**[Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
