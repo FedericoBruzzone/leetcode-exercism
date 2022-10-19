@@ -1,10 +1,16 @@
+# Solutions
+
+- [Leetcode solutions](#leetcode)
+
+- [Exercism solutions](#exercism)
+
 # leetcode
 
 ## Problems/all-topics
 
-(Small) **1 Two Sum** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
+(Small) **1 Two Sum** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/001_two_sum.py)
 
-(Medium) **2 Add Two Numbers** : [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0002_add_two_numbers.py)
+(Medium) **2 Add Two Numbers** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0002_add_two_numbers.py)
 
 (Medium) **3 Longest Substring Without Repeating Characters** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0003_longest_substring_without_repeating_characters.py)
 
@@ -52,3 +58,7 @@
 ### TODO:
 
 (Medium) **1615 Maximal Network Rank**[Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
+
+# exercism
+
+**1. Hello world** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/hello-world/hello_world.py)
