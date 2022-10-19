@@ -64,3 +64,6 @@
 **1. Hello World** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/0001_hello-world/hello_world.py)
 
 **2. Guidos Gorgeous Lasagna** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/0002_guidos-gorgeous-lasagna/lasagna.py)
+
+**3. Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/0003_ghost-gobble-arcade-game/arcade_game.py)
+
