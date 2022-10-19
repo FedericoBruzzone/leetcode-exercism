@@ -67,3 +67,6 @@
 
 **3. Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/0003_ghost-gobble-arcade-game/arcade_game.py)
 
+**4. Currency Exchange** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/0004_currency-exchange/exchange.py)
+
+
