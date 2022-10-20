@@ -73,3 +73,5 @@
 (Learning Exercise) **Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
 
 (Learning Exercise) **Black Jack** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/black-jack/black_jack.py)
+
+(Learning Exercise) **Little Sisters Vocab** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/little-sisters-vocab/strings.py)

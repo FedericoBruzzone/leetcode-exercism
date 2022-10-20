@@ -1,0 +1,3 @@
+- download: exercism download --exercise=<name> --track=python
+- run test: python3 -m pytest -o makers=task <name>_test.py
+- submit: exercism submit <name>.py
