@@ -67,3 +67,4 @@
 
 (Test) **3. Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ghost-gobble-arcade-game/arcade_game.py)
 
+(Test) **4. Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
