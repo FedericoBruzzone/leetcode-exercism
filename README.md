@@ -61,10 +61,13 @@
 
 # exercism
 
-(Test) **1. Hello World** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/hello-world/hello_world.py)
+(Learning Exercise) **1. Hello World** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/hello-world/hello_world.py)
 
-(Test) **2. Guidos Gorgeous Lasagna** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/guidos-gorgeous-lasagna/lasagna.py)
+(Learning Exercise) **2. Guidos Gorgeous Lasagna** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/guidos-gorgeous-lasagna/lasagna.py)
 
-(Test) **3. Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ghost-gobble-arcade-game/arcade_game.py)
+(Learning Exercise) **3. Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ghost-gobble-arcade-game/arcade_game.py)
 
-(Test) **4. Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
+
+(Learning Exercise) **4. Currency Exchange** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/currency-exchange/exchange.py)
+
+(Learning Exercise) **5. Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
