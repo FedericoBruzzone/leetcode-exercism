@@ -71,3 +71,5 @@
 (Learning Exercise) **4. Currency Exchange** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/currency-exchange/exchange.py)
 
 (Learning Exercise) **5. Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
+
+(Learning Exercise) **6. Black Jack** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/black-jack/black_jack.py)
