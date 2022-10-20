@@ -61,15 +61,15 @@
 
 # exercism
 
-(Learning Exercise) **1. Hello World** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/hello-world/hello_world.py)
+(Learning Exercise) **Hello World** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/hello-world/hello_world.py)
 
-(Learning Exercise) **2. Guidos Gorgeous Lasagna** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/guidos-gorgeous-lasagna/lasagna.py)
+(Learning Exercise) **Guidos Gorgeous Lasagna** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/guidos-gorgeous-lasagna/lasagna.py)
 
-(Learning Exercise) **3. Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ghost-gobble-arcade-game/arcade_game.py)
+(Learning Exercise) **Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ghost-gobble-arcade-game/arcade_game.py)
 
 
-(Learning Exercise) **4. Currency Exchange** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/currency-exchange/exchange.py)
+(Learning Exercise) **Currency Exchange** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/currency-exchange/exchange.py)
 
-(Learning Exercise) **5. Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
+(Learning Exercise) **Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
 
-(Learning Exercise) **6. Black Jack** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/black-jack/black_jack.py)
+(Learning Exercise) **Black Jack** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/black-jack/black_jack.py)
