@@ -74,4 +74,6 @@
 
 (Learning Exercise) **Black Jack** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/black-jack/black_jack.py)
 
+(Learning Exercise) **Little Sisters Essay** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/little-sisters-essay/string_methods.py)
+
 (Learning Exercise) **Little Sisters Vocab** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/little-sisters-vocab/strings.py)
