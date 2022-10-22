@@ -70,7 +70,6 @@
 
 (Learning Exercise) **Ghost Gobble Arcade Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ghost-gobble-arcade-game/arcade_game.py)
 
-
 (Learning Exercise) **Currency Exchange** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/currency-exchange/exchange.py)
 
 (Learning Exercise) **Meltdown Mitigation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/meltdown-mitigation/conditionals.py)
@@ -80,3 +79,5 @@
 (Learning Exercise) **Little Sisters Essay** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/little-sisters-essay/string_methods.py)
 
 (Learning Exercise) **Little Sisters Vocab** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/little-sisters-vocab/strings.py)
+
+(Learning Exercise) **Card games** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/card-games/lists.py)
