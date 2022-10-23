@@ -81,3 +81,5 @@
 (Learning Exercise) **Little Sisters Vocab** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/little-sisters-vocab/strings.py)
 
 (Learning Exercise) **Card games** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/card-games/lists.py)
+
+(Learning Exercise) **Chaintanas Colossal Coaster** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/chaitanas-colossal-coaster/list_methods.py)
