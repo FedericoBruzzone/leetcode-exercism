@@ -83,3 +83,7 @@
 (Learning Exercise) **Card games** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/card-games/lists.py)
 
 (Learning Exercise) **Chaintanas Colossal Coaster** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/chaitanas-colossal-coaster/list_methods.py)
+
+(Learning Exercise) **Making The Grade** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/making-the-grade/loops.py)
+
+making-the-grade
