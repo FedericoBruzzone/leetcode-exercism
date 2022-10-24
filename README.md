@@ -86,4 +86,4 @@
 
 (Learning Exercise) **Making The Grade** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/making-the-grade/loops.py)
 
-making-the-grade
+(Learning Exercise) **Tisbury Treasure Hunt** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/tisbury-treasure-hunt/tuples.py)
