@@ -94,4 +94,8 @@
 
 (Learning Exercise) **Ellens Alien Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ellens-alien-game/classes.py)
 
+(Easy) **Series** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/series/series.py)
 
+(Easy) **D&D Character** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/dnd-character/dnd_character.py)
+
+(Easy) **Roman Numerals** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/roman-numerals/roman_numerals.py)
