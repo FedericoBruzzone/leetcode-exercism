@@ -92,3 +92,6 @@
 
 (Learning Exercise) **Cater Waiter** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/cater-waiter/sets.py)
 
+(Learning Exercise) **Ellens Alien Game** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/ellens-alien-game/classes.py)
+
+
