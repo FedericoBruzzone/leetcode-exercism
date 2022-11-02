@@ -88,5 +88,7 @@
 
 (Learning Exercise) **Tisbury Treasure Hunt** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/tisbury-treasure-hunt/tuples.py)
 
-
 (Learning Exercise) **Inventory Management** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/inventory-management/dicts.py)
+
+(Learning Exercise) **Cater Waiter** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/cater-waiter/sets.py)
+
