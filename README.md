@@ -96,6 +96,8 @@
 
 (Easy) **Darts** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/darts/darts.py)
 
+(Easy) **Difference of squares** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/difference-of-squares/difference_of_squares.py)
+
 (Easy) **Robot Name** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/robot-name/robot_name.py)
 
 (Easy) **Series** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/series/series.py)
