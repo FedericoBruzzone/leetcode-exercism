@@ -109,4 +109,4 @@
 
 (Easy) **Roman Numerals** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/roman-numerals/roman_numerals.py)
 
-
+(Easy) **High Scores** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/tree/main/exercism/tracks/python/high-scores/high_scores.py)
