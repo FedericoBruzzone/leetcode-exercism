@@ -54,13 +54,15 @@
 
 (Hard) **23 Merge k Sorted Lists** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0023_merge_k_sorted_lists.py)
 
-(Medium) **24. Swap Nodes in Pairs** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0024_swap_nodes_in_pairs.py) 
+(Medium) **24 Swap Nodes in Pairs** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0024_swap_nodes_in_pairs.py)
 
 (Hard) **25 Reverse Nodes In K Group** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0025_reverse_nodes_in_k_group.py)
 
+(Easy) **26 Remove Duplicates from Sorted Array** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0026_remove_duplicates_from_sorted_array.py)
+
 ##### TODO:
 
-(Medium) **1615 Maximal Network Rank**[Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
+(Medium) **1615 Maximal Network Rank** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
 
 # exercism
 
