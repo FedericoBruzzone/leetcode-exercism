@@ -60,6 +60,8 @@
 
 (Easy) **26 Remove Duplicates from Sorted Array** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0026_remove_duplicates_from_sorted_array.py)
 
+(Easy) **27 Remove Element** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0027_remove_element.py)
+
 ##### TODO:
 
 (Medium) **1615 Maximal Network Rank** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
