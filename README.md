@@ -62,6 +62,9 @@
 
 (Easy) **27 Remove Element** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0027_remove_element.py)
 
+(Medium) **28 Find the Index of the First Occurrence in a String** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0028_find_the_index_of_the_first_occurrence_in_a_string.py)
+
+
 ##### TODO:
 
 (Medium) **1615 Maximal Network Rank** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1615_maximal_network_rank.py)
