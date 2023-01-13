@@ -64,6 +64,8 @@
 
 (Medium) **28 Find the Index of the First Occurrence in a String** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0028_find_the_index_of_the_first_occurrence_in_a_string.py)
 
+(Medium) **29 Divide Two Integers** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0029_divide_two_integers.py)
+
 
 ##### TODO:
 
