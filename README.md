@@ -66,6 +66,7 @@
 
 (Medium) **29 Divide Two Integers** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0029_divide_two_integers.py)
 
+(Medium) **1519_number_of_nodes_in_the_sub_tree_with_the_same_label.py** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1519_number_of_nodes_in_the_sub_tree_with_the_same_label.py)
 
 ##### TODO:
 
