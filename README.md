@@ -70,6 +70,8 @@
 
 (Medium) **31 Next Permutation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0031_next_permutation.py)
 
+(Hard) **32 Longest Valid Parentheses** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0032_longest_valid_parentheses.py)
+
 (Easy) **35 Search Insert Position** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0035_search_insert_position.py)
 
 (Hard) **51 N-Queens** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0051_n_queens.py)
