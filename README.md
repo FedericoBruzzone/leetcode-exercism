@@ -68,6 +68,12 @@
 
 (Hard) **30 Substring with Concatenation of All Words** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/0030_substring_with_concatenation_of_all_words.py)
 
+(Medium) **31 Next Permutation** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0031_next_permutation.py)
+
+(Easy) **35 Search Insert Position** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0035_search_insert_position.py)
+
+(Hard) **51 N-Queens** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0051_n_queens.py)
+
 (Medium) **1443 Minimum Time to Collect All Apples in a Tree** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1443_minimum_time_to_collect_all_apples_in_a_tree.py)
 
 (Medium) **1519 Number of Nodes in the Sub-Tree With the Same Label** [Solution](https://github.com/FedericoBruzzone/leetcode/blob/main/leetcode/problems/all_topics/1519_number_of_nodes_in_the_sub_tree_with_the_same_label.py)
