@@ -72,6 +72,8 @@
 
 (Hard) **32 Longest Valid Parentheses** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0032_longest_valid_parentheses.py)
 
+(Medium) **33. Search in Rotated Sorted Array** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0033_search_in_rotated_sorted_array.py)
+
 (Easy) **35 Search Insert Position** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0035_search_insert_position.py)
 
 (Hard) **51 N-Queens** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0051_n_queens.py)
