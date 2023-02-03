@@ -74,6 +74,8 @@
 
 (Medium) **33. Search in Rotated Sorted Array** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0033_search_in_rotated_sorted_array.py)
 
+(Medium) **34. Find First and Last Position of Element in Sorted Array** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0034_find_first_and_last_position_of_element_in_sorted_array.py)
+
 (Easy) **35 Search Insert Position** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0035_search_insert_position.py)
 
 (Hard) **51 N-Queens** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0051_n_queens.py)
