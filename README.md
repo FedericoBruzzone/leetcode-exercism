@@ -84,6 +84,8 @@
 
 (Medium) **38 Count and Say** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0038_count_and_say.py)
 
+(Medium) **39 Combination Sum** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0039_combination_sum.py)
+
 (Hard) **51 N-Queens** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0051_n_queens.py)
 
 (Medium) **139 Word Break** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0139_word_break.py)
