@@ -80,6 +80,8 @@
 
 (Medium) **36 Valid Sudoku** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0036_valid_sudoku.py)
 
+(Hard) **37 Sudoku Solver** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0037_sudoku_solver.py)
+
 (Hard) **51 N-Queens** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0051_n_queens.py)
 
 (Medium) **139 Word Break** [Solution](https://github.com/FedericoBruzzone/leetcode-exercism/blob/main/leetcode/problems/all_topics/0139_word_break.py)
